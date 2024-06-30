@@ -1,0 +1,21 @@
+body{
+    width: 250px;
+    height: 250px;
+    background-color: #ebef1a;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color:black;
+    border-radius: 6px;
+    border: 1px solid gray;
+    padding: 10px;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+      
+}
